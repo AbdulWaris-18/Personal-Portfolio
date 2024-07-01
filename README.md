@@ -5,7 +5,7 @@
 [![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://abdulwaris.vercel.app/)
 <a href="https://github.com/AbdulWaris-18/abdulwaris.vercel.app/blob/master/LICENSE"><img alt="License" src="http://img.shields.io/:license-mit-blue.svg?style=flat-square?style=flat-square" /></a>
 
-<img width="100%" alt="Portfolio Screenshot" src="/Personal-Portfolio/src/png/output.png">
+<img width="100%" alt="Portfolio Screenshot" src="src/png/output.png">
 
 
 :star: Star me on GitHub — it helps!
